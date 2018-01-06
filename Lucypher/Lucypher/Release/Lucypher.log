@@ -1,0 +1,2 @@
+﻿  exe_boot.cpp
+Release\exe_boot.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

@@ -1,0 +1,6 @@
+﻿LINK : error LNK2001: unresolved external symbol main()
+exe_boot.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+exe_boot.obj : error LNK2001: unresolved external symbol boot
+exe_boot.obj : error LNK2001: unresolved external symbol __imp_system
+exe_boot.obj : error LNK2001: unresolved external symbol __std_terminate
+C:\Users\Cyber Life\source\repos\Lucypher\x64\Release\Lucypher.exe : fatal error LNK1120: 5 unresolved externals
