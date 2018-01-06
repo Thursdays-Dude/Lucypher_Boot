@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Lucypher">
+      <UniqueIdentifier>{a1913eb4-1273-4e72-ba0e-84b97e1c13b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="_boot.asm">
+      <Filter>Lucypher</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

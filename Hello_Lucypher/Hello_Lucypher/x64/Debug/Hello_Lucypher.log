@@ -1,0 +1,8 @@
+﻿  Assembling _boot.asm...
+_boot.asm(1): error A2008: syntax error : .
+_boot.asm(3): error A2008: syntax error : ,
+_boot.asm(15): error A2008: syntax error : INVOKE
+_boot.asm(17): error A2008: syntax error : _boot
+_boot.asm(17): error A2088: END directive required at end of file
+_boot.asm(12): error A2206: missing operator in expression
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\_boot.obj" /W3 /errorReport:prompt  /Ta_boot.asm" exited with code 1.
