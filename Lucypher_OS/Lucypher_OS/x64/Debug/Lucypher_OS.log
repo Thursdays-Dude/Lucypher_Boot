@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\cyber life\source\repos\lucypher\lucypher\boot.asm(1): error C2059: syntax error: '.'
+c:\users\cyber life\source\repos\lucypher\lucypher\boot.asm(3): error C2059: syntax error: 'constant'
+c:\users\cyber life\source\repos\lucypher\lucypher\boot.asm(3): error C2001: newline in constant
+c:\users\cyber life\source\repos\lucypher\lucypher\boot.asm(3): error C2015: too many characters in constant
+c:\users\cyber life\source\repos\lucypher\lucypher\main.cpp(11): error C2065: 'cout': undeclared identifier
+c:\users\cyber life\source\repos\lucypher\lucypher\main.cpp(11): error C2065: 'endl': undeclared identifier

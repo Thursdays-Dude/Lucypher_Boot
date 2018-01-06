@@ -1,0 +1,3 @@
+﻿  exe_boot.cpp
+exe_boot.obj : error LNK2019: unresolved external symbol _boot referenced in function _main
+c:\users\cyber life\source\repos\Lucypher_OS\Debug\Lucypher_OS.exe : fatal error LNK1120: 1 unresolved externals
